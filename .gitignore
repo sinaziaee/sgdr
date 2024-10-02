@@ -114,4 +114,6 @@ ENV/
 *.model
 
 !rel_unet_documentations/
+!rel_unet_documentations/assets/
+!rel_unet_documentations/assets/*
 !rel_unet_documentations/*
