@@ -64,6 +64,5 @@ setup(name='nnunetv2',
               'rel_UNet_predict_5_fold = nnunetv2.rel_unet.predict_5_fold:predict_from_folder_entry' #
           ],
       },
-      keywords=['deep learning', 'image segmentation', 'medical image analysis',
-                'medical image segmentation', 'nnU-Net', 'nnunet']
+      keywords=['uncertainty quantification', 'medical image segmentation', 'nnunet']
       )
