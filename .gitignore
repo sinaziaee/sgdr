@@ -113,4 +113,5 @@ ENV/
 
 *.model
 
-!documentation/assets/scribble_example.png
+!rel_unet_documentations/
+!rel_unet_documentations/*
